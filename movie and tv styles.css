@@ -1,0 +1,57 @@
+body {
+    width: auto;
+    height: 100vh;
+    background-color: #111111;
+    font-family: "Montserrat", Arial;
+    color: #fff;
+    font-size: 14px;
+    line-height: 1.2em;
+    font-weight: 400;
+    display: flex;
+    text-align: center;
+
+}
+
+div {
+    height: 80vh;
+    width: 92vw;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid white;
+    box-sizing: border-box;
+
+}
+
+a {
+    color: #fff;
+}
+
+
+
+.top {
+    display: flex;
+    flex-direction: column;
+
+}
+
+img {
+    width: 18vw;
+    height: 70vh;
+}
+
+h1 {
+    color: #FFE400;
+
+}
+
+footer {
+    font-weight: 600;
+    background-color: #FFE400;
+
+    padding: 10px 45px;
+    transition: all .2s ease 0s;
+    border-radius: 30px;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    margin: 40px 10px;
+}
