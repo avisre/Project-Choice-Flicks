@@ -55,3 +55,6 @@ footer {
     line-height: 1.5;
     margin: 40px 10px;
 }
+.foot a {
+    color: #111111;
+}
