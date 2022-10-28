@@ -17,7 +17,7 @@ div {
     width: 92vw;
     display: flex;
     flex-direction: row;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     box-sizing: border-box;
 
 }
@@ -55,6 +55,11 @@ footer {
     line-height: 1.5;
     margin: 40px 10px;
 }
+
 .foot a {
     color: #111111;
+}
+
+section {
+    margin-left: 40px;
 }
