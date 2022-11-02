@@ -1,10 +1,13 @@
 body {
     background-color: #111111;
     font-family: "Montserrat", Arial;
-    color: #fff;
+    color: black;
     font-size: 14px;
     line-height: 1.2em;
     font-weight: 400;
+    background-image: url("https://images.pexels.com/photos/8140552/pexels-photo-8140552.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-position: center;
+
 
 }
 
@@ -12,14 +15,16 @@ body {
 
 h1 {
 
-    font-size: 28px;
+    font-size: 40px;
     font-weight: 700;
     line-height: 1.2;
-    color: #FFE400;
+    color: white;
+    transform: translateX(40%);
+
 }
 
 a {
-    color: #fff;
+    color: white;
 
 }
 
@@ -103,7 +108,8 @@ footer {
 section {
     margin-top: 90px;
 }
-img {
+
+/* img {
     width: 30%;
 
-}
+} */
