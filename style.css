@@ -8,8 +8,7 @@ body {
     background-image: url("https://images.pexels.com/photos/8140552/pexels-photo-8140552.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-position: center;
     background-repeat: no-repeat;
-
-
+    background-size:100% 100%;
 
 }
 
